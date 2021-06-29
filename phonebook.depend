@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586550511 source:d:\examples\phonebook\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+
